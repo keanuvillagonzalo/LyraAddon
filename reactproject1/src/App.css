@@ -67,11 +67,11 @@ body {
 }
 
 .swiper-button-prev {
-    transform: translateY(8vh) rotate(90deg);
+    transform: translateY(10vh) rotate(90deg);
 }
 
 .swiper-button-next {
-    transform: translateY(8vh) rotate(90deg);
+    transform: translateY(10vh) rotate(90deg);
 }
 /* Target the wrapper of the second Swiper using the unique ID */
 #controlled-swiper .swiper-wrapper {
